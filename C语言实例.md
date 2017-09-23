@@ -1,5 +1,6 @@
 # C-
-C++初学记录
+>C++初学记录
+```
 #数组求和#
 #include <stdio.h>
 int addArray(int arry[],int n );
@@ -22,3 +23,4 @@ int addArray(int arry[],int n)
         }
          return sum;
 }
+```
